@@ -1,3 +1,5 @@
+This app was developed as a training while I was learning React. It does the calculation of your weekly badget, considering income and expenses ;).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
